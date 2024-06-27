@@ -16,6 +16,7 @@ img{
 section{
     display: flex;
     padding-left:15px ;
+    margin-bottom: 200px;
 }
 .half_width{
     width: 50%;
@@ -39,4 +40,10 @@ section{
 .top_banner{
     background-image: url(images/header_bg.png);
     background-repeat: no-repeat;
+}
+.dream_big{
+    size-adjust: 50%;
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
